@@ -4,6 +4,8 @@
 
 * A client application&mdash;an Android app, a Java SE application, web pages constructed dynamically on the server side using a templating or component approach, etc.
 
+    The front end for this application will be an Android app, which 
+
 * An application server, usually in the form of a REST service provider.
 
 * A database server&mdash;typically&mdash;but not necessarily&mdash;a MySQL or Derby database server. (Note that the application server and database server may reside on different hosts or the same host; they may even be embedded in a single program.)
@@ -21,3 +23,6 @@
 ## Task 1: 6 February
 
 Write (below) a description of your capstone idea. Don't worry about a specific structure, but make an attempt to address all of the points above in some way (even if briefly). As with your Android project ideas, feel free to copy this file (keeping the `.md` extension on any copy) and complete this task for multiple project ideas.
+
+
+## Todd's Capstone Project Idea
