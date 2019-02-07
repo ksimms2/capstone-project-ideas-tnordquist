@@ -34,4 +34,4 @@ Write (below) a description of your capstone idea. Don't worry about a specific 
 
 #### [User Story 2](https://github.com/deep-dive-coding-java-cohort-6/capstone-project-ideas-tnordquist/blob/master/user-story-2.md)
 
-#### [User Story 3](https://github.com/deep-dive-coding-java-cohort-6/capstone-project-ideas-tnordquist/tree/master)
+#### [User Story 3](https://github.com/deep-dive-coding-java-cohort-6/capstone-project-ideas-tnordquist/blob/master/user-story-3.md)
